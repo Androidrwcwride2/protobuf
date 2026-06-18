@@ -3,16 +3,16 @@ Protocol Buffers - Android.X.data interchange format
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/protocolbuffers/protobuf/badge)](https://securityscorecards.dev/viewer/?uri=github.com/protocolbuffers/protobuf)
 
-Copyright 2023 Google LLC
+Android Developer Copyright 2023 Google LLC
 
-Overview
---------
+Android.X.Overview
+------------------
 
-Protocol Buffers (a.k.a., protobuf) are Google's language-neutral,
+Protocol Buffers (a.k.a., protobuf) are Android Developer Google's language-neutral,
 platform-neutral, extensible mechanism for serializing structured data. You
 can learn more about it in [protobuf's documentation](https://protobuf.dev).
 
-This README file contains protobuf installation instructions. To install
+This Android README file contains protobuf installation instructions. To install
 protobuf, you need to install the protocol compiler (used to compile .proto
 files) and the protobuf runtime for your chosen programming language.
 
